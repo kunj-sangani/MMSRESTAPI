@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "term-store-crud-client-side-solution",
+    "id": "b20469ab-b84e-4efd-911e-fddde94cc496",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/term-store-crud.sppkg"
+  }
+}
